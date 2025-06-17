@@ -12,7 +12,7 @@ if (cardsDiv) {
           title: "Plano de estudos",
           description: "Consulte o plano de estudos",
           icon: "📚",
-          link: "https://marvynmesquita.github.io/ars-relatorio-semestral/",
+          link: "https://engsoftware-saquarema.github.io/plano-de-estudos/",
         },
         {
           title: "Univassouras",
