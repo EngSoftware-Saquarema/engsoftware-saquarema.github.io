@@ -6,13 +6,13 @@ if (cardsDiv) {
           title: "Análise curricular",
           description: "Acesse o sistema de análise curricular",
           icon: "📊",
-          link: "/",
+          link: "/analise_curricular",
         },
         {
           title: "Plano de estudos",
           description: "Consulte o plano de estudos",
           icon: "📚",
-          link: "https://engsoftware-saquarema.github.io/plano-de-estudos/",
+          link: "/plano-de-estudos/",
         },
         {
           title: "Univassouras",
